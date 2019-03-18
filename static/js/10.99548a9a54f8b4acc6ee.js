@@ -1,0 +1,2 @@
+webpackJsonp([10],{lufe:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("优惠券")])},staticRenderFns:[]};var u=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("um7N")},"data-v-37286cf8",null);t.default=u.exports},um7N:function(e,t){}});
+//# sourceMappingURL=10.99548a9a54f8b4acc6ee.js.map
