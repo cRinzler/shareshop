@@ -1,2 +1,0 @@
-webpackJsonp([9],{NfF0:function(e,t){},aSP3:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("新品")])},staticRenderFns:[]};var r=n("VU/8")({data:function(){return{}}},a,!1,function(e){n("NfF0")},"data-v-41aba73f",null);t.default=r.exports}});
-//# sourceMappingURL=9.8f23553f95528a93ae93.js.map
