@@ -1,2 +1,0 @@
-webpackJsonp([3],{jzGn:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    购物车    \n")])},staticRenderFns:[]};var i=t("VU/8")({data:function(){return{}}},r,!1,function(e){t("pNxi")},"data-v-19d4f075",null);n.default=i.exports},pNxi:function(e,n){}});
-//# sourceMappingURL=3.4f6757d18e24152f804d.js.map
